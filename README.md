@@ -1,1 +1,1 @@
-# Stopwatch-Application-for-Android-Smartphones.
+# Stopwatch-Application-for-Android-Smartphones
