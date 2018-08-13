@@ -1,1 +1,1 @@
-# Weather-Api-For-Android-Phone
+# Weather-Api-Application-for-Android-Smartphones
